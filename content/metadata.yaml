@@ -113,6 +113,17 @@ authors:
     email: sbegbert80@gmail.com
     affiliations:
       - Department of Chemistry, University of Manitoba, Winnipeg, Cananda
+ 
+  - github: rileynm 
+    name: Nicholas M. Riley
+    initials: NMR
+    orcid: 0000-0002-1536-2966
+    twitter: riley_nm1
+    email: nmriley@uw.edu
+    affiliations:
+      - University of Washington
+    funders:
+      - NIH K99GM147304 
       
   - github: jessegmeyerlab
     name: Jesse G. Meyer
